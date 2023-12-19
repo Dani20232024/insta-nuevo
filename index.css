@@ -1,0 +1,25 @@
+.container {
+    border: solid 1px #949393;
+    color: grey;
+    border-width:initial;
+    width: 370px;
+    background-color: white;
+    right: 300px;
+   
+   
+    
+
+ }
+
+ .celular {
+    position: absolute;
+    left: 320px;
+    top: 100px;
+ 
+}
+
+
+.logoletra {
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+}
